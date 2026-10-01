@@ -1,12 +1,14 @@
 # Hi, I'm Amrutha 👋
 
 🎓 Computer Science Engineering Student  
+
+
 ## 🛠️ Tech Stack
 
 **Languages**
 - C
 - Python
-
+- JavaScript
 
 **Web Development**
 - HTML
@@ -26,6 +28,10 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrutha01nsgowda@gmail.com)
 
-## 📌 GitHub
+## 📊 GitHub Contributions
 
-I build projects while learning and improving my programming skills.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrutha01-ns&show_icons=true&hide_border=true&theme=blueberry)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Amrutha01-ns&theme=blueberry&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutha01-ns&layout=compact&hide_border=true&theme=blueberry)
