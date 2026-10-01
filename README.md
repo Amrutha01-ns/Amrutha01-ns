@@ -2,13 +2,12 @@
 
 🎓 Computer Science Engineering Student  
 
-
 ## 🛠️ Tech Stack
 
 **Languages**
 - C
 - Python
-- JavaScript
+
 
 **Web Development**
 - HTML
@@ -30,8 +29,10 @@
 
 ## 📊 GitHub Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrutha01-ns&show_icons=true&hide_border=true&theme=blueberry)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Amrutha01-ns&theme=github-compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Amrutha01-ns&theme=blueberry&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-Amrutha01--ns-181717?style=for-the-badge&logo=github)](https://github.com/Amrutha01-ns)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrutha01-ns&layout=compact&hide_border=true&theme=blueberry)
+---
+
+⭐ Thanks for visiting my profile!
